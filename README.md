@@ -53,4 +53,4 @@ RANCHER_NAMESPACE:  your rancher namespace
 
 RANCHER_IP: your rancher url
 
-RANCHER_TOKEN: rancher roken
+RANCHER_TOKEN: rancher token
